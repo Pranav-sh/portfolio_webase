@@ -1,0 +1,38 @@
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+.social_icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-tumblr:hover {
+    color: #008000;
+}
+
+.fab {
+    color: #000000;
+}
+
+#footer {
+    background-color: #808080;
+    text-align: center;
+}
+
+#about,
+#service,
+#portfolio,
+#contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+
+#contact {
+    padding-bottom: 4rem;
+}
